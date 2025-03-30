@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akina</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=todicoding&label=Profile%20views&color=0e75b6&style=flat" alt="todicoding" /> </p>
 
-- 🔭 I’m currently working on [date based location prediction](https://github.com/ToDiCoding/Date-based-location-prediction)
+- 🔭 I’m currently working on [Jira Mate](https://github.com/wwwtmc/Jira-Mate)
 
 - 🌱 I’m currently learning **Python, data analysis**
 
